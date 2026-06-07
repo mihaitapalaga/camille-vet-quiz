@@ -29,7 +29,7 @@ export function PrizeCounter({
     <section className="panel counter-panel">
       <h2>Compteur interactif</h2>
       <p className="counter-help">
-        Chaque bonne reponse au quiz fait monter le compteur. Tu peux aussi cliquer ici. A 100, tu gagnes le grand prix !
+        Chaque bonne réponse au quiz fait monter le compteur. Tu peux aussi cliquer ici. A 100, tu gagnes le grand prix !
       </p>
 
       <button
@@ -47,7 +47,7 @@ export function PrizeCounter({
       </div>
 
       <button type="button" className="secondary" onClick={onReset}>
-        Remettre a zero
+        Remettre à zéro
       </button>
 
       {showPopup && (

@@ -118,7 +118,7 @@ export function QuizPanel({
     );
   }
 
-  const typeLabel = current.type === "objectif_apprentissage" ? "Objectif d apprentissage" : "Question de cours";
+  const typeLabel = current.type === "objectif_apprentissage" ? "Objectif d'apprentissage" : "Question de cours";
   const expectedLabel = correctAnswers.join(" ? ");
 
   return (
@@ -127,7 +127,7 @@ export function QuizPanel({
         <div className="badge-row">
           <span className="badge">{SOURCE_LABELS[current.source]}</span>
           <span className="badge badge-soft">{typeLabel}</span>
-          {multiSelect && <span className="badge badge-soft">Selection multiple</span>}
+          {multiSelect && <span className="badge badge-soft">Sélection multiple</span>}
         </div>
         <span className="meta">{pool.length} questions disponibles</span>
       </div>
@@ -141,10 +141,10 @@ export function QuizPanel({
 
       <p className="question-text">{current.question}</p>
       {multiSelect && (
-        <p className="multi-hint">Selectionne toutes les bonnes reponses, puis clique sur Valider.</p>
+        <p className="multi-hint">Sélectionne toutes les bonnes réponses, puis clique sur Valider.</p>
       )}
 
-      <div className="choices-grid" role="group" aria-label="Choix de reponse A B C D">
+      <div className="choices-grid" role="group" aria-label="Choix de réponse A B C D">
         {current.choices.map((choice, index) => (
           <button
             key={`${current.question}-${index}`}
@@ -168,7 +168,7 @@ export function QuizPanel({
             onClick={submitMultiChoice}
             disabled={selected.length === 0}
           >
-            Valider ma reponse
+            Valider ma réponse
           </button>
         </div>
       )}
@@ -177,7 +177,7 @@ export function QuizPanel({
         <div className={`feedback ${feedback}`}>
           {feedback === "correct"
             ? "Correct ! +1 sur le compteur grand prix"
-            : `Incorrect. ${multiSelect ? "Les bonnes reponses etaient" : "La bonne reponse etait"} : ${expectedLabel}`}
+            : `Incorrect. ${multiSelect ? "Les bonnes réponses étaient" : "La bonne réponse était"} : ${expectedLabel}`}
         </div>
       )}
 
