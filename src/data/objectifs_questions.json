@@ -234,9 +234,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les signes radiographiques et » ?",
+    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les signes radiographiques et cliniques d'une fracture » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les signes radiographiques et",
+    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les signes radiographiques et cliniques d'une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [

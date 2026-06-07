@@ -39,15 +39,15 @@
     ]
   },
   {
-    "question": "Quel objectif therapeutique vise a supprimer la douleur ?",
+    "question": "Quel objectif du traitement d'une fracture vise directement le confort de l'animal ?",
     "answer": "Supprimer la douleur",
     "context": "Objectifs du traitement",
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "5 mm",
-      "amputation",
-      "2",
+      "Asepsie",
+      "Stabilisation des fragments",
+      "Epargne tissulaire",
       "Supprimer la douleur"
     ]
   },
@@ -162,10 +162,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Confinement en cage",
-      "Velpeau",
+      "necrose cutanee",
       "effet garrot",
-      "Vetrap"
+      "infection par maceration",
+      "oedeme persistant"
     ]
   },
   {
@@ -175,10 +175,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "bande cohésive",
+      "effet garrot",
       "infection par maceration",
-      "confinement de l'animal",
-      "Signalement de l'animal"
+      "necrose cutanee",
+      "oedeme"
     ]
   },
   {
@@ -188,10 +188,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "confinement de l'animal",
+      "infection par maceration",
       "serrage excessif",
-      "bandage de Robert Jones",
-      "Confinement en cage"
+      "oedeme distal",
+      "effet garrot"
     ]
   },
   {
@@ -253,9 +253,9 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "amputation",
-      "Fractures fermees",
-      "Flexion",
+      "comminution sans deplacement",
+      "fracture en bois vert",
+      "flexion moderee",
       "deplacement des abouts fracturaires"
     ]
   },
@@ -400,10 +400,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "Reintervention",
-      "Conversion en amputation",
-      "Defaillance implant",
-      "13.9 /100 000"
+      "5.2 /100 000",
+      "8.7 /100 000",
+      "13.9 /100 000",
+      "25.4 /100 000"
     ]
   },
   {
@@ -491,10 +491,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "Traitement multimodal complet",
-      "zones de croissance (metaphyses)",
+      "pres du coude, loin du grasset",
+      "zones diaphysaires",
       "loin du coude, pres du grasset",
-      "boiterie douloureuse persistante"
+      "epiphyses distales"
     ]
   },
   {
@@ -504,10 +504,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "Radiotherapie",
-      "amputation uniquement",
-      "amputation + chimiotherapie",
-      "1-3 mois"
+      "< 1 mois",
+      "1-3 mois",
+      "4-6 mois",
+      "10-14 mois"
     ]
   },
   {
@@ -517,10 +517,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "amputation + chimiotherapie",
+      "1-3 mois",
       "4-6 mois",
-      "amputation uniquement",
-      "Radiotherapie"
+      "10-14 mois",
+      "18-24 mois"
     ]
   },
   {
@@ -530,10 +530,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "Radiotherapie",
-      "amputation uniquement",
+      "1-3 mois",
+      "4-6 mois",
       "10-14 mois",
-      "amputation + chimiotherapie"
+      "18-24 mois"
     ]
   },
   {
@@ -556,10 +556,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "Recidive locale",
-      "Conversion en amputation",
+      "0,1 mg/kg",
       "0,25 mg/kg",
-      "Infection"
+      "0,5 mg/kg",
+      "1 mg/kg"
     ]
   },
   {
@@ -662,10 +662,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "menisque medial",
-      "Lesions meniscales",
-      "genou",
-      "ligament croise cranial"
+      "ligament croise caudal",
+      "ligament collateral medial",
+      "ligament croise cranial",
+      "ligament patellaire"
     ]
   },
   {
@@ -675,10 +675,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "hyperextension",
+      "membre thoracique",
       "membre pelvien",
-      "tiroir cranial",
-      "rupture du LCCr"
+      "les quatre membres egalement",
+      "membres posterieurs exclusivement"
     ]
   },
   {
@@ -753,10 +753,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "membre pelvien",
-      "Lesions meniscales",
+      "hanche",
+      "coude",
       "genou",
-      "ligament croise cranial"
+      "epaule"
     ]
   },
   {
@@ -779,10 +779,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "bandage de Robert Jones",
-      "Absence de germes",
+      "confinement strict",
       "analgésie (morphiniques), AINS",
-      "amputation"
+      "bandage compressif",
+      "glucocorticoides"
     ]
   },
   {
@@ -818,10 +818,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Confinement en cage",
-      "Velpeau",
+      "circulaire",
       "bi-valve",
-      "Vetrap"
+      "en gouttiere",
+      "en plaque"
     ]
   },
   {
@@ -831,10 +831,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "confinement de l'animal",
-      "bandage de Robert Jones",
-      "bandage de Robert Jones modifie",
-      "coussinets des doigts porteurs"
+      "l'ensemble du membre",
+      "coussinets des doigts porteurs",
+      "les griffes uniquement",
+      "les malleoles"
     ]
   },
   {
@@ -844,10 +844,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Vetrap",
+      "necrose cutanee",
       "amputation",
-      "Confinement en cage",
-      "Velpeau"
+      "infection profonde",
+      "oedeme permanent"
     ]
   },
   {
@@ -857,23 +857,23 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
+      "Jersey tubulaire",
       "bandage de Robert Jones",
-      "Confinement en cage",
-      "bandage de Robert Jones modifie",
-      "confinement de l'animal"
+      "couche de contact",
+      "bandage de Robert Jones modifie"
     ]
   },
   {
-    "question": "Quelle bande cohesive maintient l'attelle en place ?",
+    "question": "Quel materiau de maintien est applique par-dessus l'attelle pour la fixer ?",
     "answer": "bande cohésive",
     "context": "Bande cohésive pour maintenir attelle",
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Velpeau",
+      "Elastoplaste",
       "bande cohésive",
-      "Vetrap",
-      "Confinement en cage"
+      "Jersey tubulaire",
+      "bande crepe"
     ]
   },
   {
@@ -884,9 +884,9 @@
     "type": "curated",
     "choices": [
       "Confinement en cage",
-      "bandage de Robert Jones modifie",
+      "surveillance quotidienne des doigts",
       "confinement de l'animal",
-      "bandage de Robert Jones"
+      "refection du bandage si mouille"
     ]
   },
   {
@@ -896,10 +896,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Jersey tubulaire",
-      "bandage de Robert Jones",
-      "bandage de Robert Jones modifie",
-      "serrage excessif"
+      "matelassage insuffisant",
+      "serrage excessif",
+      "bande crepe trop lache",
+      "absence de collerette"
     ]
   },
   {
@@ -1036,10 +1036,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "10-14 mois",
+      "25-40%",
+      "50-65%",
       "75-90%",
-      "1-3 mois",
-      "4-6 mois"
+      "90-100%"
     ]
   },
   {
@@ -1049,10 +1049,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
+      "< 5%",
+      "5-10%",
       "10-25%",
-      "10-14 mois",
-      "1-3 mois",
-      "4-6 mois"
+      "30-50%"
     ]
   },
   {
@@ -1062,10 +1062,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
+      "< 5%",
+      "5-15%",
       "20-60%",
-      "10-14 mois",
-      "1-3 mois",
-      "4-6 mois"
+      "70-80%"
     ]
   },
   {
@@ -1075,10 +1075,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "10-14 mois",
-      "1-3 mois",
-      "4-6 mois",
-      "15-35%"
+      "< 5%",
+      "5-10%",
+      "15-35%",
+      "40-60%"
     ]
   },
   {
@@ -1088,10 +1088,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "4-6 mois",
-      "1-3 mois",
-      "10-14 mois",
-      "70-90%"
+      "< 30%",
+      "40-60%",
+      "70-90%",
+      "90-100%"
     ]
   },
   {
@@ -1101,10 +1101,10 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "1-3 mois",
+      "< 5%",
+      "5-10%",
       "15-35%",
-      "4-6 mois",
-      "10-14 mois"
+      "40-60%"
     ]
   },
   {
@@ -1141,9 +1141,9 @@
     "type": "curated",
     "choices": [
       "zones de croissance (metaphyses)",
-      "Traitement multimodal complet",
-      "boiterie douloureuse persistante",
-      "loin du coude, pres du grasset"
+      "corps vertebraux",
+      "epiphyses distales",
+      "diaphyses"
     ]
   },
   {
@@ -1154,9 +1154,9 @@
     "type": "curated",
     "choices": [
       "pulmonaire",
-      "Infection",
-      "Levrier Ecossais",
-      "AINS"
+      "osseuse",
+      "ganglionnaire",
+      "hepatique"
     ]
   },
   {
@@ -1166,7 +1166,7 @@
     "source": "tumeurs_osseuses",
     "type": "curated",
     "choices": [
-      "> 80%",
+      "tumefaction locale douloureuse",
       "loin du coude, pres du grasset",
       "boiterie douloureuse persistante",
       "phosphatases alcalines seriques elevees"
@@ -1194,8 +1194,8 @@
     "multiSelect": true,
     "choices": [
       "Dogue Allemand",
-      "Localisation humerale proximale",
-      "Index mitotique eleve",
+      "Levrier Ecossais",
+      "Saint-Bernard",
       "Leonberg"
     ],
     "answers": [
@@ -1212,9 +1212,9 @@
     "multiSelect": true,
     "choices": [
       "Morphiniques",
-      "Metastases pulmonaires au diagnostic",
+      "AINS",
       "Radiotherapie",
-      "Index mitotique eleve"
+      "Bisphosphonates"
     ],
     "answers": [
       "Radiotherapie",
