@@ -111,7 +111,7 @@
     "type": "curated",
     "choices": [
       "50%",
-      "Contact entre surfaces fracturees > 50%",
+      "30%",
       "< 50%",
       "> 50%"
     ]
@@ -124,9 +124,9 @@
     "type": "curated",
     "choices": [
       "5 mm",
-      "7 j",
-      "4 a 7 jours",
-      "48 h"
+      "1 cm",
+      "2 cm",
+      "3 mm"
     ]
   },
   {
@@ -137,9 +137,9 @@
     "type": "curated",
     "choices": [
       "1,5 cm",
-      "7 j",
-      "48 h",
-      "4 a 7 jours"
+      "5 mm",
+      "1 cm",
+      "3 cm"
     ]
   },
   {
@@ -701,10 +701,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "tiroir anterieur et rotatoire",
-      "compression du grasset",
       "tiroir cranial",
-      "test de Tibial thrust"
+      "test d'Ortolani",
+      "test de Barden",
+      "test de valgus force"
     ]
   },
   {
@@ -974,10 +974,10 @@
     "source": "fractures",
     "type": "curated",
     "choices": [
-      "Contact entre surfaces fracturees < 50%",
+      "< 50%",
       "> 50%",
-      "Contact entre surfaces fracturees > 50%",
-      "< 50%"
+      "= 50%",
+      "> 75%"
     ]
   },
   {
@@ -1254,10 +1254,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "hyperextension",
-      "rotation interne du tibia",
       "glissement cranial du tibia",
-      "tiroir anterieur et rotatoire"
+      "glissement caudal du tibia",
+      "rotation externe du tibia",
+      "abduction du grasset"
     ]
   },
   {
@@ -1267,10 +1267,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "hyperextension",
-      "glissement cranial du tibia",
       "rotation interne du tibia",
-      "tiroir anterieur et rotatoire"
+      "rotation externe du tibia",
+      "abduction du tibia",
+      "adduction du tibia"
     ]
   },
   {
@@ -1280,10 +1280,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "tiroir anterieur et rotatoire",
-      "glissement cranial du tibia",
       "hyperextension",
-      "rotation interne du tibia"
+      "hyperflexion",
+      "abduction maximale",
+      "varus force"
     ]
   },
   {
@@ -1398,9 +1398,9 @@
     "type": "curated",
     "choices": [
       "tiroir anterieur et rotatoire",
-      "hyperextension",
-      "glissement cranial du tibia",
-      "rotation interne du tibia"
+      "instabilite en valgus",
+      "luxation de la rotule",
+      "instabilite en varus"
     ]
   },
   {
