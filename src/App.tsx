@@ -1,11 +1,10 @@
-﻿import { useCallback, useState } from "react";
-import { CategoryQuizPanel } from "./components/CategoryQuizPanel";
+import { useCallback, useState } from "react";
 import { PrizeCounter, PRIZE_MAX } from "./components/PrizeCounter";
 import { QuizPanel } from "./components/QuizPanel";
 import { ALL_QUESTION_BANK } from "./lib/quiz";
 import "./App.css";
 
-type Tab = "quiz" | "category" | "counter";
+type Tab = "quiz" | "counter";
 
 export default function App() {
   const [tab, setTab] = useState<Tab>("quiz");
@@ -46,9 +45,6 @@ export default function App() {
           <button type="button" className={tab === "quiz" ? "tab active" : "tab"} onClick={() => setTab("quiz")}>
             Quiz aleatoire
           </button>
-          <button type="button" className={tab === "category" ? "tab active" : "tab"} onClick={() => setTab("category")}>
-            Par categorie
-          </button>
           <button type="button" className={tab === "counter" ? "tab active" : "tab"} onClick={() => setTab("counter")}>
             Compteur prix
           </button>
@@ -58,13 +54,6 @@ export default function App() {
         {tab === "quiz" && (
           <QuizPanel
             questions={ALL_QUESTION_BANK}
-            prizeCount={prizeCount}
-            prizeMax={PRIZE_MAX}
-            onCorrectAnswer={incrementPrize}
-          />
-        )}
-        {tab === "category" && (
-          <CategoryQuizPanel
             prizeCount={prizeCount}
             prizeMax={PRIZE_MAX}
             onCorrectAnswer={incrementPrize}
@@ -95,4 +84,3 @@ export default function App() {
     </div>
   );
 }
-
