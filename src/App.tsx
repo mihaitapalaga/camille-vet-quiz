@@ -150,7 +150,6 @@ export default function App() {
         {tab === "counter" && (
           <PrizeCounter
             count={prizeCount}
-            onIncrement={incrementPrize}
             onReset={resetPrize}
             showPopup={showPrizePopup}
             onClosePopup={closePrizePopup}

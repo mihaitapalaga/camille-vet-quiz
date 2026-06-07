@@ -1,10 +1,9 @@
-﻿import { useCallback, useEffect, useState } from "react";
+﻿import { useEffect } from "react";
 
 const MAX = 100;
 
 type PrizeCounterProps = {
   count: number;
-  onIncrement: () => void;
   onReset: () => void;
   showPopup: boolean;
   onClosePopup: () => void;
@@ -12,7 +11,6 @@ type PrizeCounterProps = {
 
 export function PrizeCounter({
   count,
-  onIncrement,
   onReset,
   showPopup,
   onClosePopup,
@@ -27,20 +25,18 @@ export function PrizeCounter({
 
   return (
     <section className="panel counter-panel">
-      <h2>Compteur interactif</h2>
+      <h2>Compteur grand prix</h2>
       <p className="counter-help">
-        Chaque bonne réponse au quiz fait monter le compteur. Tu peux aussi cliquer ici. A 100, tu gagnes le grand prix !
+        Chaque bonne réponse au quiz fait monter le compteur. À 100, tu gagnes le grand prix !
       </p>
 
-      <button
-        type="button"
+      <div
         className="counter-display"
-        onClick={onIncrement}
         aria-label={`Compteur : ${count} sur ${MAX}`}
       >
         <span className="counter-number">{count}</span>
         <span className="counter-max">/ {MAX}</span>
-      </button>
+      </div>
 
       <div className="progress-track" aria-hidden="true">
         <div className="progress-fill" style={{ width: `${progress}%` }} />
