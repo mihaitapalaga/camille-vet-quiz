@@ -38,7 +38,7 @@ export default function App() {
           <p className="eyebrow">UC 0422 · Revision veterinaire</p>
           <h1>Bonjour Camille 👋</h1>
           <p className="subtitle">
-            Questions generees uniquement a partir de tes cours (fractures, tumeurs osseuses, rupture LCCR), y compris les objectifs d apprentissage.
+            Questions generees uniquement a partir de tes cours (fractures, tumeurs osseuses, rupture LCCR), y compris les objectifs d'apprentissage.
           </p>
         </div>
         <nav className="tabs" aria-label="Navigation principale">
