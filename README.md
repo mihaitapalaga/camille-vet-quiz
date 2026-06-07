@@ -10,7 +10,7 @@ Le lien fonctionne depuis n'importe quel ordinateur ou téléphone, en France co
 
 ## Fonctionnalités
 
-- **Quiz aléatoire** : 276 questions générées uniquement à partir de tes 3 cours.
+- **Quiz aléatoire** : 179 questions générées uniquement à partir de tes 3 cours.
 - **Choix multiples** : certaines questions acceptent plusieurs bonnes réponses.
 - **Compteur interactif** : clique pour compter de 0 à 100, une popup apparaît à 100 puis le compteur revient à 0.
 
