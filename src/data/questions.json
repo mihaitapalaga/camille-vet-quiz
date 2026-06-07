@@ -683,7 +683,7 @@
   },
   {
     "question": "Quel signe clinique evoque une rupture du LCCR ?",
-    "answer": "boiterie",
+    "answer": "boiterie de soutien",
     "context": "Boiterie d'origine osteoarticulaire",
     "source": "rupture_lccr",
     "type": "curated",
@@ -766,10 +766,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "Hypercorticisme",
+      "obesite",
       "Sedentarisme",
-      "Conformation",
-      "obesite"
+      "Hyperthyroidie",
+      "Traumatisme unique isole"
     ]
   },
   {
@@ -1187,42 +1187,38 @@
   },
   {
     "question": "Selectionnez toutes les races predisposees a l'osteosarcome.",
-    "answer": "Leonberg",
+    "answer": "Dogue Allemand",
     "context": "Predisposition raciale",
     "source": "tumeurs_osseuses",
     "type": "curated",
     "multiSelect": true,
     "choices": [
       "Dogue Allemand",
-      "Levrier Ecossais",
       "Saint-Bernard",
-      "Leonberg"
+      "Chihuahua",
+      "Caniche"
     ],
     "answers": [
       "Dogue Allemand",
-      "Levrier Ecossais",
-      "Saint-Bernard",
-      "Leonberg"
+      "Saint-Bernard"
     ]
   },
   {
     "question": "Selectionnez toutes les options de prise en charge de la douleur osseuse.",
-    "answer": "Radiotherapie",
+    "answer": "Morphiniques",
     "context": "Prise en charge de la douleur",
     "source": "tumeurs_osseuses",
     "type": "curated",
     "multiSelect": true,
     "choices": [
       "Morphiniques",
-      "AINS",
       "Radiotherapie",
-      "Bisphosphonates"
+      "Antibiotiques",
+      "Antiparasitaires"
     ],
     "answers": [
       "Morphiniques",
-      "AINS",
-      "Radiotherapie",
-      "Bisphosphonates"
+      "Radiotherapie"
     ]
   },
   {
@@ -1310,10 +1306,10 @@
     "source": "rupture_lccr",
     "type": "curated",
     "choices": [
-      "membre pelvien",
-      "tiroir cranial",
-      "rupture du LCCr",
-      "ménisque médial"
+      "ménisque médial",
+      "ménisque latéral",
+      "les deux ménisques",
+      "corne crâniale du ménisque médial"
     ]
   },
   {
@@ -1390,7 +1386,7 @@
     "choices": [
       "62%",
       "90%",
-      "90% de ruptures",
+      "75%",
       "60%"
     ]
   },
