@@ -1,8 +1,8 @@
 [
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les principaux objectifs de la prise en charge thérapeutique d’une fracture » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les principaux objectifs de la prise en charge thérapeutique d’une fracture » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Citer les principaux objectifs de la prise en charge thérapeutique d’une fracture",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Citer les principaux objectifs de la prise en charge thérapeutique d’une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -13,9 +13,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir prendre les mesures nécessaires pour traiter ces complications » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir prendre les mesures nécessaires pour traiter ces complications » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Savoir prendre les mesures nécessaires pour traiter ces complications",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Savoir prendre les mesures nécessaires pour traiter ces complications",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir expliquer la pose d’un bandage de Robert Jones » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir expliquer la pose d’un bandage de Robert Jones » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Savoir expliquer la pose d’un bandage de Robert Jones",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Savoir expliquer la pose d’un bandage de Robert Jones",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -39,9 +39,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir expliquer la pose d’un bandage de Robert Jones modifié avec une attelle » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir expliquer la pose d’un bandage de Robert Jones modifié avec une attelle » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Savoir expliquer la pose d’un bandage de Robert Jones modifié avec une attelle",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Savoir expliquer la pose d’un bandage de Robert Jones modifié avec une attelle",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir expliquer la pose d’une résine » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir expliquer la pose d’une résine » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Savoir expliquer la pose d’une résine",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Savoir expliquer la pose d’une résine",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -65,9 +65,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir reconnaître un syndrome d’hyperextension du grasset, et en connaître les principes de prévention » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir reconnaître un syndrome d’hyperextension du grasset, et en connaître les principes de prévention » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Savoir reconnaître un syndrome d’hyperextension du grasset, et en connaître les principes de prévention",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Savoir reconnaître un syndrome d’hyperextension du grasset, et en connaître les principes de prévention",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les soins postopératoires lors de fixation externe » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les soins postopératoires lors de fixation externe » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Décrire les soins postopératoires lors de fixation externe",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Décrire les soins postopératoires lors de fixation externe",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -91,9 +91,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer en quoi l’interrogatoire orienté dans un contexte de fracture est important pour la prise en charge ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer en quoi l’interrogatoire orienté dans un contexte de fracture est important pour la prise en charge » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Expliquer en quoi l’interrogatoire orienté dans un contexte de fracture est important pour la prise en charge ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Expliquer en quoi l’interrogatoire orienté dans un contexte de fracture est important pour la prise en charge",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -104,9 +104,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les signes cliniques d’appels d’une fracture ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les signes cliniques d’appels d’une fracture » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les signes cliniques d’appels d’une fracture ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les signes cliniques d’appels d’une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -117,9 +117,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire une fracture d’après des critères cliniques et radiographiques ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire une fracture d’après des critères cliniques et radiographiques » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire une fracture d’après des critères cliniques et radiographiques ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire une fracture d’après des critères cliniques et radiographiques",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -130,9 +130,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer l’intérêt du scanner dans certaines localisations des fractures ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer l’intérêt du scanner dans certaines localisations des fractures » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Expliquer l’intérêt du scanner dans certaines localisations des fractures ➢",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Expliquer l’intérêt du scanner dans certaines localisations des fractures",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer de quelles forces résultent les déplacements des fragments observés sur les clichés radiographiques ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer de quelles forces résultent les déplacements des fragments observés sur les clichés radiographiques » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Expliquer de quelles forces résultent les déplacements des fragments observés sur les clichés radiographiques ➢",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Expliquer de quelles forces résultent les déplacements des fragments observés sur les clichés radiographiques",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -156,9 +156,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer les raisons pour lesquelles le caractère ouvert d’une fracture peut aggraver le pronostic ➢ Définitions ➢ Importance ➢ Epidémio... » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer les raisons pour lesquelles le caractère ouvert d’une fracture peut aggraver le pronostic Définitions Importance Epidémio... » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Expliquer les raisons pour lesquelles le caractère ouvert d’une fracture peut aggraver le pronostic ➢ Définitions ➢ Importance ➢ Epidémiologie ➢ Lésions : le foyer de fracture ➢ Etude clinique ➢ Diagnostic ➢ Le trait de fracture : localisation Fracture diaphysaire Fracture métaphysaire Fracture épiphysaire disjonction épiphysaire LESIONS OSSEUSES / LE TRAIT DE FRACTURE Fractures bi-condyliennes ou intercondyliennes En T",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Expliquer les raisons pour lesquelles le caractère ouvert d’une fracture peut aggraver le pronostic Définitions Importance Epidémiologie Lésions : le foyer de fracture Etude clinique Diagnostic Le trait de fracture : localisation Fracture diaphysaire Fracture métaphysaire Fracture épiphysaire disjonction épiphysaire LESIONS OSSEUSES / LE TRAIT DE FRACTURE Fractures bi-condyliennes ou intercondyliennes En T",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -169,9 +169,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les deux principaux modes de cicatrisation d’une fracture ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les deux principaux modes de cicatrisation d’une fracture » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les deux principaux modes de cicatrisation d’une fracture ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les deux principaux modes de cicatrisation d’une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -182,9 +182,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les facteurs biologiques et biomécaniques ayant un impact positif ou négatif sur la cicatrisation d’une fracture ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les facteurs biologiques et biomécaniques ayant un impact positif ou négatif sur la cicatrisation d’une fracture » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les facteurs biologiques et biomécaniques ayant un impact positif ou négatif sur la cicatrisation d’une fracture ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les facteurs biologiques et biomécaniques ayant un impact positif ou négatif sur la cicatrisation d’une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -195,9 +195,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Définir une luxation/subluxation ◼ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Définir une luxation/subluxation » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Définir une luxation/subluxation ◼",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Définir une luxation/subluxation",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -208,9 +208,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une entorse, une luxation, indiquer leur valeur diagnostique ◼ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une entorse, une luxation, indiquer leur valeur diagnostique » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une entorse, une luxation, indiquer leur valeur diagnostique ◼",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une entorse, une luxation, indiquer leur valeur diagnostique",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -221,9 +221,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les signes radiographiques d’appels d’une entorse, d’une luxation/subluxation toutes articulations confondues ◼ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les signes radiographiques d’appels d’une entorse, d’une luxation/subluxation toutes articulations confondues » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiographiques d’appels d’une entorse, d’une luxation/subluxation toutes articulations confondues ◼",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiographiques d’appels d’une entorse, d’une luxation/subluxation toutes articulations confondues",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -234,9 +234,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les signes radiographiques et cliniques d'une fracture » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les signes radiographiques et cliniques d'une fracture » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les signes radiographiques et cliniques d'une fracture",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les signes radiographiques et cliniques d'une fracture",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -247,9 +247,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les critères qui influent sur la nature et l’urgence d’une prise en charge thérapeutique ◼ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les critères qui influent sur la nature et l’urgence d’une prise en charge thérapeutique » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Enoncer les critères qui influent sur la nature et l’urgence d’une prise en charge thérapeutique ◼",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Enoncer les critères qui influent sur la nature et l’urgence d’une prise en charge thérapeutique",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -260,9 +260,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les différentes options thérapeutiques, leur principe, leurs buts, leur rapport bénéfices/risques; ◼ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les différentes options thérapeutiques, leur principe, leurs buts, leur rapport bénéfices/risques; » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Décrire les différentes options thérapeutiques, leur principe, leurs buts, leur rapport bénéfices/risques; ◼",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Décrire les différentes options thérapeutiques, leur principe, leurs buts, leur rapport bénéfices/risques;",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -273,9 +273,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostique » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostique » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostique",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Citer les examens d’imagerie habituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostique",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -286,9 +286,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les différentes options thérapeutiques possibles pour la prise en charge d’une luxation » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les différentes options thérapeutiques possibles pour la prise en charge d’une luxation » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les différentes options thérapeutiques possibles pour la prise en charge d’une luxation",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les différentes options thérapeutiques possibles pour la prise en charge d’une luxation",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -299,9 +299,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les principes du traitement chirurgical d’une luxation » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les principes du traitement chirurgical d’une luxation » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Enoncer les principes du traitement chirurgical d’une luxation",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Enoncer les principes du traitement chirurgical d’une luxation",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -312,9 +312,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les principaux agents bactériens responsables des AS chez le chien et le chat ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les principaux agents bactériens responsables des AS chez le chien et le chat » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les principaux agents bactériens responsables des AS chez le chien et le chat ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les principaux agents bactériens responsables des AS chez le chien et le chat",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -325,9 +325,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir mener une enquête pour identifer le germe en cause et l’origine de la contamination ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir mener une enquête pour identifer le germe en cause et l’origine de la contamination » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Savoir mener une enquête pour identifer le germe en cause et l’origine de la contamination ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Savoir mener une enquête pour identifer le germe en cause et l’origine de la contamination",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -338,9 +338,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les principes généraux du traitement d’une AS ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les principes généraux du traitement d’une AS » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Enoncer les principes généraux du traitement d’une AS ➢",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Enoncer les principes généraux du traitement d’une AS",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -351,9 +351,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -364,9 +364,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Etablir un pronostic et en informer le propriétaire ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Etablir un pronostic et en informer le propriétaire » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Etablir un pronostic et en informer le propriétaire ➢",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Etablir un pronostic et en informer le propriétaire",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -377,9 +377,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les facteurs de bon pronostic ➢ » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les facteurs de bon pronostic » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les facteurs de bon pronostic ➢",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les facteurs de bon pronostic",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -390,9 +390,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les principaux agents bactériens responsables des arthrites septiques chez le chien et le chat » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les principaux agents bactériens responsables des arthrites septiques chez le chien et le chat » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les principaux agents bactériens responsables des arthrites septiques chez le chien et le chat",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les principaux agents bactériens responsables des arthrites septiques chez le chien et le chat",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -403,9 +403,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Savoir mener une enquête afin de préciser le germe en cause et l’origine de la contamination » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Savoir mener une enquête afin de préciser le germe en cause et l’origine de la contamination » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Savoir mener une enquête afin de préciser le germe en cause et l’origine de la contamination",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Savoir mener une enquête afin de préciser le germe en cause et l’origine de la contamination",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -416,9 +416,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les principes généraux du traitement d’une arthrite septique » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les principes généraux du traitement d’une arthrite septique » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Enoncer les principes généraux du traitement d’une arthrite septique",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Enoncer les principes généraux du traitement d’une arthrite septique",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -429,9 +429,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les différentes options thérapeutiques, en fonction de l’origine de l’arthrite » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les différentes options thérapeutiques, en fonction de l’origine de l’arthrite » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les différentes options thérapeutiques, en fonction de l’origine de l’arthrite",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les différentes options thérapeutiques, en fonction de l’origine de l’arthrite",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -442,9 +442,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Définir une dysplasie de la hanchen » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Définir une dysplasie de la hanchen » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Définir une dysplasie de la hanchen",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Définir une dysplasie de la hanchen",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -455,9 +455,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les lésionsrencontrées en présence d’une dysplasie de la hanchen » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les lésionsrencontrées en présence d’une dysplasie de la hanchen » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les lésionsrencontrées en présence d’une dysplasie de la hanchen",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les lésionsrencontrées en présence d’une dysplasie de la hanchen",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -468,9 +468,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les différentes options thérapeutiques, leurs principes, leurs buts, leurs indications et contre-indications, leur rapports bénéf... » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les différentes options thérapeutiques, leurs principes, leurs buts, leurs indications et contre-indications, leur rapports bénéf... » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Décrire les différentes options thérapeutiques, leurs principes, leurs buts, leurs indications et contre-indications, leur rapports bénéfices/risquesn",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Décrire les différentes options thérapeutiques, leurs principes, leurs buts, leurs indications et contre-indications, leur rapports bénéfices/risquesn",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -481,9 +481,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les éléments importants de la prise en charge de l’affection au sein de la population caninen » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les éléments importants de la prise en charge de l’affection au sein de la population caninen » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Enoncer les éléments importants de la prise en charge de l’affection au sein de la population caninen",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Enoncer les éléments importants de la prise en charge de l’affection au sein de la population caninen",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -494,9 +494,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les examens d’imageriehabituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostiquen » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les examens d’imageriehabituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostiquen » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les examens d’imageriehabituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostiquen",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les examens d’imageriehabituellement utilisés pour diagnostiquer une luxation, indiquer leur valeur diagnostiquen",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -507,9 +507,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer au propriétaire les suites après traitement d’une luxation coxo-fémorale Objectifs d’apprentissage La luxation coxo-fémorale n » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer au propriétaire les suites après traitement d’une luxation coxo-fémorale Objectifs d’apprentissage La luxation coxo-fémorale n » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Expliquer au propriétaire les suites après traitement d’une luxation coxo-fémorale Objectifs d’apprentissage La luxation coxo-fémorale n",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Expliquer au propriétaire les suites après traitement d’une luxation coxo-fémorale Objectifs d’apprentissage La luxation coxo-fémorale n",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -520,9 +520,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les signes radiologiques devant être recherchés lors de suspicion une nécrose aseptique de la tête fémorale et les identifier sur... » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les signes radiologiques devant être recherchés lors de suspicion une nécrose aseptique de la tête fémorale et les identifier sur... » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiologiques devant être recherchés lors de suspicion une nécrose aseptique de la tête fémorale et les identifier sur les clichés radiographiques d’une articulation atteinten",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiologiques devant être recherchés lors de suspicion une nécrose aseptique de la tête fémorale et les identifier sur les clichés radiographiques d’une articulation atteinten",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -533,9 +533,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Enoncer les principes dutraitement d’une nécrose aseptique de la tête fémorale, les complicationspotentielles et les résultatsattendus Ob... » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Enoncer les principes dutraitement d’une nécrose aseptique de la tête fémorale, les complicationspotentielles et les résultatsattendus Ob... » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Enoncer les principes dutraitement d’une nécrose aseptique de la tête fémorale, les complicationspotentielles et les résultatsattendus Objectifs d’apprentissage La maladie de Legg-Perthes-Calvé n",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Enoncer les principes dutraitement d’une nécrose aseptique de la tête fémorale, les complicationspotentielles et les résultatsattendus Objectifs d’apprentissage La maladie de Legg-Perthes-Calvé n",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -546,9 +546,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les signes radiologiques devant être recherchés lors de suspicion de glissement épiphysairen » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les signes radiologiques devant être recherchés lors de suspicion de glissement épiphysairen » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiologiques devant être recherchés lors de suspicion de glissement épiphysairen",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiologiques devant être recherchés lors de suspicion de glissement épiphysairen",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -559,9 +559,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Définir l'arthrose et en préciser l'importance chez les carnivores domestiques » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Définir l'arthrose et en préciser l'importance chez les carnivores domestiques » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Définir l'arthrose et en préciser l'importance chez les carnivores domestiques",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Définir l'arthrose et en préciser l'importance chez les carnivores domestiques",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -572,9 +572,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les principales causes et lésions impliquées dans la survenue de l'arthrose » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les principales causes et lésions impliquées dans la survenue de l'arthrose » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Citer les principales causes et lésions impliquées dans la survenue de l'arthrose",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Citer les principales causes et lésions impliquées dans la survenue de l'arthrose",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -585,9 +585,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les éléments pertinents constituant le script d'une arthrose : signalement, historique, symptômes, signes radiologiques et les just... » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les éléments pertinents constituant le script d'une arthrose : signalement, historique, symptômes, signes radiologiques et les just... » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Citer les éléments pertinents constituant le script d'une arthrose : signalement, historique, symptômes, signes radiologiques et les justifier",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Citer les éléments pertinents constituant le script d'une arthrose : signalement, historique, symptômes, signes radiologiques et les justifier",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -598,9 +598,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer l'intérêt d'une prise en charge multimodale » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer l'intérêt d'une prise en charge multimodale » ?",
     "answer": "A+",
-    "context": "Objectif d apprentissage (niveau A+) · Traitement des fractures · Expliquer l'intérêt d'une prise en charge multimodale",
+    "context": "Objectif d'apprentissage (niveau A+) · Traitement des fractures · Expliquer l'intérêt d'une prise en charge multimodale",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -611,9 +611,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire la pathogénie et la physiopathologie de l'arthrose » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire la pathogénie et la physiopathologie de l'arthrose » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire la pathogénie et la physiopathologie de l'arthrose",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire la pathogénie et la physiopathologie de l'arthrose",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -624,9 +624,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les signes radiographiques de l'arthrose et indiquer leur valeur diagnostique » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les signes radiographiques de l'arthrose et indiquer leur valeur diagnostique » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiographiques de l'arthrose et indiquer leur valeur diagnostique",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Décrire les signes radiographiques de l'arthrose et indiquer leur valeur diagnostique",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -637,9 +637,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les éléments impliqués dans la prise en charge de l'arthrose » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les éléments impliqués dans la prise en charge de l'arthrose » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Traitement des fractures · Citer les éléments impliqués dans la prise en charge de l'arthrose",
+    "context": "Objectif d'apprentissage (niveau A) · Traitement des fractures · Citer les éléments impliqués dans la prise en charge de l'arthrose",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -650,9 +650,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer au propriétaire les différentes composantes de la prise en charge de l'arthrose et l'importance des mesures hygiéniques » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer au propriétaire les différentes composantes de la prise en charge de l'arthrose et l'importance des mesures hygiéniques » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Traitement des fractures · Expliquer au propriétaire les différentes composantes de la prise en charge de l'arthrose et l'importance des mesures hygiéniques",
+    "context": "Objectif d'apprentissage (niveau B) · Traitement des fractures · Expliquer au propriétaire les différentes composantes de la prise en charge de l'arthrose et l'importance des mesures hygiéniques",
     "source": "fractures",
     "type": "objectif_apprentissage",
     "choices": [
@@ -663,7 +663,7 @@
     ]
   },
   {
-    "question": "Selectionnez tous les objectifs d apprentissage du cours « Traitement des fractures ».",
+    "question": "Selectionnez tous les objectifs d'apprentissage du cours « Traitement des fractures ».",
     "answer": "Enoncer les principes du traitement chirurgical d’une luxation",
     "context": "Objectifs d'apprentissage · Traitement des fractures",
     "source": "fractures",
@@ -681,9 +681,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Identifier les signes cliniques, biologiques et radiographiques d’appels en présence d’un ostéosarcome » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Identifier les signes cliniques, biologiques et radiographiques d’appels en présence d’un ostéosarcome » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Tumeurs osseuses · Identifier les signes cliniques, biologiques et radiographiques d’appels en présence d’un ostéosarcome",
+    "context": "Objectif d'apprentissage (niveau A) · Tumeurs osseuses · Identifier les signes cliniques, biologiques et radiographiques d’appels en présence d’un ostéosarcome",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -694,9 +694,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les examens complémentaires sur la base desquels suspecter et diagnostiquer un ostéosarcome » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les examens complémentaires sur la base desquels suspecter et diagnostiquer un ostéosarcome » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Tumeurs osseuses · Citer les examens complémentaires sur la base desquels suspecter et diagnostiquer un ostéosarcome",
+    "context": "Objectif d'apprentissage (niveau A) · Tumeurs osseuses · Citer les examens complémentaires sur la base desquels suspecter et diagnostiquer un ostéosarcome",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -707,9 +707,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire la stratégie suivie lors du bilan d’extension » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire la stratégie suivie lors du bilan d’extension » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Tumeurs osseuses · Décrire la stratégie suivie lors du bilan d’extension",
+    "context": "Objectif d'apprentissage (niveau B) · Tumeurs osseuses · Décrire la stratégie suivie lors du bilan d’extension",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -720,9 +720,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les intérêts et limites de chacun des examens complémentaires utilisés dans la démarche diagnostique et dans le bilan d’extension » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les intérêts et limites de chacun des examens complémentaires utilisés dans la démarche diagnostique et dans le bilan d’extension » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Tumeurs osseuses · Citer les intérêts et limites de chacun des examens complémentaires utilisés dans la démarche diagnostique et dans le bilan d’extension",
+    "context": "Objectif d'apprentissage (niveau A) · Tumeurs osseuses · Citer les intérêts et limites de chacun des examens complémentaires utilisés dans la démarche diagnostique et dans le bilan d’extension",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -733,9 +733,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Effectuer le diagnostic différentiel des boiteries associées à une ostéoprolifération/ ostélyse radiographiques » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Effectuer le diagnostic différentiel des boiteries associées à une ostéoprolifération/ ostélyse radiographiques » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Tumeurs osseuses · Effectuer le diagnostic différentiel des boiteries associées à une ostéoprolifération/ ostélyse radiographiques",
+    "context": "Objectif d'apprentissage (niveau A) · Tumeurs osseuses · Effectuer le diagnostic différentiel des boiteries associées à une ostéoprolifération/ ostélyse radiographiques",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -746,9 +746,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire la stratégie de prise en charge thérapeutique en évaluant le rapport bénéfices/risques de chacune des options » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire la stratégie de prise en charge thérapeutique en évaluant le rapport bénéfices/risques de chacune des options » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Tumeurs osseuses · Décrire la stratégie de prise en charge thérapeutique en évaluant le rapport bénéfices/risques de chacune des options",
+    "context": "Objectif d'apprentissage (niveau A) · Tumeurs osseuses · Décrire la stratégie de prise en charge thérapeutique en évaluant le rapport bénéfices/risques de chacune des options",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -759,9 +759,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Décrire les complications des différentes prises en charge chirurgicales des ostéosarcomes » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Décrire les complications des différentes prises en charge chirurgicales des ostéosarcomes » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Tumeurs osseuses · Décrire les complications des différentes prises en charge chirurgicales des ostéosarcomes",
+    "context": "Objectif d'apprentissage (niveau B) · Tumeurs osseuses · Décrire les complications des différentes prises en charge chirurgicales des ostéosarcomes",
     "source": "tumeurs_osseuses",
     "type": "objectif_apprentissage",
     "choices": [
@@ -772,7 +772,7 @@
     ]
   },
   {
-    "question": "Selectionnez tous les objectifs d apprentissage du cours « Tumeurs osseuses ».",
+    "question": "Selectionnez tous les objectifs d'apprentissage du cours « Tumeurs osseuses ».",
     "answer": "Décrire la stratégie suivie lors du bilan d’extension",
     "context": "Objectifs d'apprentissage · Tumeurs osseuses",
     "source": "tumeurs_osseuses",
@@ -780,7 +780,7 @@
     "multiSelect": true,
     "choices": [
       "Utiliser le test du tiroir cranial dans le diagnostic de rupture du LCCR",
-      "Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS ➢",
+      "Décrire les différentes options thérapeutiques, en fonction de l’origine de l’AS",
       "Décrire la stratégie suivie lors du bilan d’extension",
       "Effectuer le diagnostic différentiel des boiteries associées à une ostéoprolifération/ ostélyse radiographiques"
     ],
@@ -790,9 +790,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Connaitre les roles mecaniques du ligament croise cranial chez le chien » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Connaitre les roles mecaniques du ligament croise cranial chez le chien » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Connaitre les roles mecaniques du ligament croise cranial chez le chien",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Connaitre les roles mecaniques du ligament croise cranial chez le chien",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -803,9 +803,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Identifier les facteurs etiologiques de la rupture du LCCR (obesite, conformation, mode de vie) » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Identifier les facteurs etiologiques de la rupture du LCCR (obesite, conformation, mode de vie) » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Identifier les facteurs etiologiques de la rupture du LCCR (obesite, conformation, mode de vie)",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Identifier les facteurs etiologiques de la rupture du LCCR (obesite, conformation, mode de vie)",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -816,9 +816,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Reconnaitre les signes cliniques evocateurs d une rupture du LCCR » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Reconnaitre les signes cliniques evocateurs d une rupture du LCCR » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Reconnaitre les signes cliniques evocateurs d une rupture du LCCR",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Reconnaitre les signes cliniques evocateurs d une rupture du LCCR",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -829,9 +829,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Utiliser le test du tiroir cranial dans le diagnostic de rupture du LCCR » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Utiliser le test du tiroir cranial dans le diagnostic de rupture du LCCR » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Utiliser le test du tiroir cranial dans le diagnostic de rupture du LCCR",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Utiliser le test du tiroir cranial dans le diagnostic de rupture du LCCR",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -842,9 +842,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Interpreter les signes radiographiques associes a la rupture du LCCR » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Interpreter les signes radiographiques associes a la rupture du LCCR » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Interpreter les signes radiographiques associes a la rupture du LCCR",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Interpreter les signes radiographiques associes a la rupture du LCCR",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -855,9 +855,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Citer les principes des techniques chirurgicales de traitement (TPLO, TTA, techniques extra-articulaires) » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Citer les principes des techniques chirurgicales de traitement (TPLO, TTA, techniques extra-articulaires) » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Rupture du LCCR · Citer les principes des techniques chirurgicales de traitement (TPLO, TTA, techniques extra-articulaires)",
+    "context": "Objectif d'apprentissage (niveau B) · Rupture du LCCR · Citer les principes des techniques chirurgicales de traitement (TPLO, TTA, techniques extra-articulaires)",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -868,9 +868,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Decrire les complications possibles apres traitement chirurgical du LCCR » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Decrire les complications possibles apres traitement chirurgical du LCCR » ?",
     "answer": "B",
-    "context": "Objectif d apprentissage (niveau B) · Rupture du LCCR · Decrire les complications possibles apres traitement chirurgical du LCCR",
+    "context": "Objectif d'apprentissage (niveau B) · Rupture du LCCR · Decrire les complications possibles apres traitement chirurgical du LCCR",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -881,9 +881,9 @@
     ]
   },
   {
-    "question": "Quel est le niveau de cet objectif d apprentissage : « Expliquer l interet du LCCr chez le chien comme modele de la rupture du LCA chez l homme » ?",
+    "question": "Quel est le niveau de cet objectif d'apprentissage : « Expliquer l interet du LCCr chez le chien comme modele de la rupture du LCA chez l homme » ?",
     "answer": "A",
-    "context": "Objectif d apprentissage (niveau A) · Rupture du LCCR · Expliquer l interet du LCCr chez le chien comme modele de la rupture du LCA chez l homme",
+    "context": "Objectif d'apprentissage (niveau A) · Rupture du LCCR · Expliquer l interet du LCCr chez le chien comme modele de la rupture du LCA chez l homme",
     "source": "rupture_lccr",
     "type": "objectif_apprentissage",
     "choices": [
@@ -894,7 +894,7 @@
     ]
   },
   {
-    "question": "Selectionnez tous les objectifs d apprentissage du cours « Rupture du LCCR ».",
+    "question": "Selectionnez tous les objectifs d'apprentissage du cours « Rupture du LCCR ».",
     "answer": "Decrire les complications possibles apres traitement chirurgical du LCCR",
     "context": "Objectifs d'apprentissage · Rupture du LCCR",
     "source": "rupture_lccr",
@@ -904,7 +904,7 @@
       "Decrire les complications possibles apres traitement chirurgical du LCCR",
       "Décrire les soins postopératoires lors de fixation externe",
       "Connaitre les roles mecaniques du ligament croise cranial chez le chien",
-      "Enoncer les principes généraux du traitement d’une AS ➢"
+      "Enoncer les principes généraux du traitement d’une AS"
     ],
     "answers": [
       "Decrire les complications possibles apres traitement chirurgical du LCCR",
