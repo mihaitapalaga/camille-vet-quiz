@@ -1,0 +1,1507 @@
+[
+  {
+    "question": "Quel objectif du traitement d'une fracture correspond a l'asepsie ?",
+    "answer": "Absence de germes",
+    "context": "Absence de germes -> Asepsie",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Absence de germes",
+      "< 50%",
+      "bandage de Robert Jones modifie",
+      "amputation"
+    ]
+  },
+  {
+    "question": "Quel principe correspond a la contention des fragments ?",
+    "answer": "stabilisation",
+    "context": "Contention des fragments -> stabilisation",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Materiau leger",
+      "stabilisation",
+      "bande cohésive",
+      "Materiau lourd"
+    ]
+  },
+  {
+    "question": "Quel objectif correspond a l'epargne tissulaire ?",
+    "answer": "Respect de la vascularisation et des tissus mous",
+    "context": "Respect vascularisation et tissus mous -> Epargne tissulaire",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "coussinets des doigts porteurs",
+      "Respect de la vascularisation et des tissus mous",
+      "deplacement des abouts fracturaires",
+      "bandage de Robert Jones modifie"
+    ]
+  },
+  {
+    "question": "Quel objectif therapeutique vise a supprimer la douleur ?",
+    "answer": "Supprimer la douleur",
+    "context": "Objectifs du traitement",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "5 mm",
+      "amputation",
+      "2",
+      "Supprimer la douleur"
+    ]
+  },
+  {
+    "question": "Quelle immobilisation en urgence pour fracture sous le coude ou le grasset chez le chien ?",
+    "answer": "bandage de Robert Jones",
+    "context": "Fractures sous coude/grasset -> BRJ",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "bandage de Robert Jones",
+      "bandage de Robert Jones modifie",
+      "Confinement en cage",
+      "confinement de l'animal"
+    ]
+  },
+  {
+    "question": "Quelle immobilisation en urgence dans les autres cas de fracture ?",
+    "answer": "Confinement en cage",
+    "context": "Autres cas -> confinement",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Confinement en cage",
+      "bandage de Robert Jones",
+      "confinement de l'animal",
+      "bandage de Robert Jones modifie"
+    ]
+  },
+  {
+    "question": "Combien de temps attendre avant pose de resine apres traumatisme ?",
+    "answer": "48 h",
+    "context": "Attendre 48 h apres traumatisme",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "7 j",
+      "48 h",
+      "4 a 7 jours",
+      "1 fois / 4 semaines"
+    ]
+  },
+  {
+    "question": "A quelle frequence refaire un bandage sans probleme signale par le proprietaire ?",
+    "answer": "4 a 7 jours",
+    "context": "Refection tous les 4 a 7 jours",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "4 a 7 jours",
+      "1 fois / 4 semaines",
+      "7 j",
+      "48 h"
+    ]
+  },
+  {
+    "question": "Quel recouvrement entre tours de bande crepe dans le Robert Jones ?",
+    "answer": "50%",
+    "context": "Recouvrement 50% a chaque tour",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "50%",
+      "Contact entre surfaces fracturees > 50%",
+      "< 50%",
+      "> 50%"
+    ]
+  },
+  {
+    "question": "De combien doit depasser le matelassage en bas du pansement Robert Jones ?",
+    "answer": "5 mm",
+    "context": "Matelassage depasse de 5 mm en bas",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "5 mm",
+      "7 j",
+      "4 a 7 jours",
+      "48 h"
+    ]
+  },
+  {
+    "question": "De combien doit depasser le matelassage en haut du pansement Robert Jones ?",
+    "answer": "1,5 cm",
+    "context": "Matelassage depasse de 1,5 cm en haut",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "1,5 cm",
+      "7 j",
+      "48 h",
+      "4 a 7 jours"
+    ]
+  },
+  {
+    "question": "Quel test verifie le serrage du bandage Robert Jones en haut du pansement ?",
+    "answer": "introduire l'index",
+    "context": "Introduire l'index en haut du pansement",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "compression du grasset",
+      "introduire l'index",
+      "mobilisation passive",
+      "mobilisation des doigts"
+    ]
+  },
+  {
+    "question": "Quel risque si pansement trop serre sur les doigts ?",
+    "answer": "effet garrot",
+    "context": "Oedeme doigts -> effet garrot",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Confinement en cage",
+      "Velpeau",
+      "effet garrot",
+      "Vetrap"
+    ]
+  },
+  {
+    "question": "Quel risque si bande trop serree sur peau humide ou lesee ?",
+    "answer": "infection par maceration",
+    "context": "Infection par maceration",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "bande cohésive",
+      "infection par maceration",
+      "confinement de l'animal",
+      "Signalement de l'animal"
+    ]
+  },
+  {
+    "question": "Quelle complication la plus frequente lors de la pose d'une resine ?",
+    "answer": "serrage excessif",
+    "context": "Complication la plus frequente: serrage excessif",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "confinement de l'animal",
+      "serrage excessif",
+      "bandage de Robert Jones",
+      "Confinement en cage"
+    ]
+  },
+  {
+    "question": "L'attelle doit-elle etre placee au contact de la peau ?",
+    "answer": "non",
+    "context": "L'attelle n'est jamais placee au contact de la peau",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Reserve aux chats uniquement",
+      "non",
+      "oui",
+      "Uniquement pour les fractures ouvertes"
+    ]
+  },
+  {
+    "question": "Quand realiser le premier controle radiographique apres contention externe ?",
+    "answer": "48 h",
+    "context": "Controle RX 48 h apres confection",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "48 h",
+      "1 fois / 4 semaines",
+      "4 a 7 jours",
+      "7 j"
+    ]
+  },
+  {
+    "question": "Quand realiser le second controle radiographique precoce apres contention externe ?",
+    "answer": "7 j",
+    "context": "Controle RX 7 j apres confection",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "7 j",
+      "4 a 7 jours",
+      "48 h",
+      "1 fois / 4 semaines"
+    ]
+  },
+  {
+    "question": "A quelle frequence les radiographies de controle sont-elles ensuite realisees ?",
+    "answer": "1 fois / 4 semaines",
+    "context": "Controle RX 1 fois / 4 semaines",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "4 a 7 jours",
+      "1 fois / 4 semaines",
+      "7 j",
+      "48 h"
+    ]
+  },
+  {
+    "question": "Quel deplacement des fragments impose un traitement chirurgical ?",
+    "answer": "deplacement des abouts fracturaires",
+    "context": "Deplacement abouts fracturaires -> chirurgie",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "amputation",
+      "Fractures fermees",
+      "Flexion",
+      "deplacement des abouts fracturaires"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les indications du traitement conservateur d'une fracture.",
+    "answer": "Non articulaires",
+    "context": "Indications traitement conservateur",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Contact entre surfaces fracturées > 50%",
+      "Non isolees",
+      "Contact entre surfaces fracturées < 50%",
+      "Non articulaires"
+    ],
+    "answers": [
+      "Non articulaires",
+      "Contact entre surfaces fracturées > 50%"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les indications du traitement chirurgical d'une fracture.",
+    "answer": "Desaxation articulaire",
+    "context": "Indications traitement chirurgical",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Situees sous le coude et le grasset",
+      "Desaxation articulaire",
+      "Absence de desaxation articulaire",
+      "Contact entre surfaces fracturées < 50%"
+    ],
+    "answers": [
+      "Desaxation articulaire",
+      "Contact entre surfaces fracturées < 50%"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les forces a neutraliser pour stabiliser une fracture.",
+    "answer": "Angulation",
+    "context": "Forces a neutraliser",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Infection",
+      "Non consolidation",
+      "Ecartement",
+      "Angulation"
+    ],
+    "answers": [
+      "Angulation",
+      "Ecartement"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les couches du pansement de Robert Jones (theorie).",
+    "answer": "Elastoplaste",
+    "context": "Pansement Robert Jones - theorie",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Resistance moderee et tardive (8 h)",
+      "Elastoplaste",
+      "Velpeau",
+      "Radio-opacite"
+    ],
+    "answers": [
+      "Elastoplaste",
+      "Velpeau"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les proprietes du platre de Paris en contention externe.",
+    "answer": "Permeable",
+    "context": "Platre de Paris",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Permeable",
+      "Radio-transparence",
+      "Radio-opacite",
+      "Impermeable"
+    ],
+    "answers": [
+      "Permeable",
+      "Radio-opacite"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les proprietes des resines en polyuréthane en contention externe.",
+    "answer": "Resistance importante et precoce",
+    "context": "Resines polyuréthane",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Materiau lourd",
+      "Impermeable",
+      "Porosite faible",
+      "Resistance importante et precoce"
+    ],
+    "answers": [
+      "Resistance importante et precoce",
+      "Impermeable"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des tumeurs osseuses sont malignes chez le chien ?",
+    "answer": "95%",
+    "context": "95 % malignes",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "10%",
+      "95%",
+      "85%",
+      "90%"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des tumeurs osseuses represente l'osteosarcome ?",
+    "answer": "85%",
+    "context": "85% des tumeurs osseuses",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "90%",
+      "85%",
+      "95%",
+      "10%"
+    ]
+  },
+  {
+    "question": "Quelle est l'incidence de l'osteosarcome chez le chien ?",
+    "answer": "13.9 /100 000",
+    "context": "incidence 13.9 /100 000",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Reintervention",
+      "Conversion en amputation",
+      "Defaillance implant",
+      "13.9 /100 000"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des tumeurs chez le chien represente l'osteosarcome ?",
+    "answer": "5%",
+    "context": "5% des tumeurs chez le chien",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "10%",
+      "5%",
+      "95%",
+      "85%"
+    ]
+  },
+  {
+    "question": "Quelle proportion des tumeurs osseuses primaires correspond aux osteosarcomes ?",
+    "answer": "> 80%",
+    "context": "Osteosarcomes > 80%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "3-8%",
+      "> 80%",
+      "< 25%",
+      "5-10%"
+    ]
+  },
+  {
+    "question": "Quel pourcentage correspond aux chondrosarcomes ?",
+    "answer": "10%",
+    "context": "Chondrosarcomes 10%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "90%",
+      "10%",
+      "95%",
+      "85%"
+    ]
+  },
+  {
+    "question": "Quelle fourchette de pourcentage correspond aux hemangiosarcomes osseux ?",
+    "answer": "3-8%",
+    "context": "Hemangiosarcomes 3-8%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "3-8%",
+      "95%",
+      "> 80%",
+      "85%"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des cas concerne les races grandes (>25 kg) ?",
+    "answer": "90%",
+    "context": "90% races grandes",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "95%",
+      "90%",
+      "10%",
+      "85%"
+    ]
+  },
+  {
+    "question": "Quel pourcentage presente des metastases au moment de la prise en charge ?",
+    "answer": "90%",
+    "context": "90% metastases au diagnostic",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "90%",
+      "95%",
+      "85%",
+      "10%"
+    ]
+  },
+  {
+    "question": "Quelle localisation appendiculaire typique de l'osteosarcome ?",
+    "answer": "loin du coude, pres du grasset",
+    "context": "loin du coude, pres du grasset",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Traitement multimodal complet",
+      "zones de croissance (metaphyses)",
+      "loin du coude, pres du grasset",
+      "boiterie douloureuse persistante"
+    ]
+  },
+  {
+    "question": "Quelle est la survie mediane sans traitement de l'osteosarcome ?",
+    "answer": "1-3 mois",
+    "context": "Sans traitement 1-3 mois",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Radiotherapie",
+      "amputation uniquement",
+      "amputation + chimiotherapie",
+      "1-3 mois"
+    ]
+  },
+  {
+    "question": "Quelle est la survie mediane avec amputation seule ?",
+    "answer": "4-6 mois",
+    "context": "Amputation seule 4-6 mois",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "amputation + chimiotherapie",
+      "4-6 mois",
+      "amputation uniquement",
+      "Radiotherapie"
+    ]
+  },
+  {
+    "question": "Quelle est la survie mediane avec amputation et chimiotherapie adjuvante ?",
+    "answer": "10-14 mois",
+    "context": "Amputation + chimio 10-14 mois",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Radiotherapie",
+      "amputation uniquement",
+      "10-14 mois",
+      "amputation + chimiotherapie"
+    ]
+  },
+  {
+    "question": "Quel traitement de reference pour l'osteosarcome du chien ?",
+    "answer": "amputation + chimiotherapie",
+    "context": "Amputation + chimio = traitement de reference",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Radiotherapie",
+      "amputation uniquement",
+      "Traitement multimodal complet",
+      "amputation + chimiotherapie"
+    ]
+  },
+  {
+    "question": "Quelle dose de zoledronate est indiquee chez le chien ?",
+    "answer": "0,25 mg/kg",
+    "context": "Zoledronate 0,25 mg/kg IV",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Recidive locale",
+      "Conversion en amputation",
+      "0,25 mg/kg",
+      "Infection"
+    ]
+  },
+  {
+    "question": "Quel pourcentage de metastases chez le chat atteint d'osteosarcome ?",
+    "answer": "5-10%",
+    "context": "Metastases 5-10% chez le chat",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "> 80%",
+      "3-8%",
+      "5-10%",
+      "< 25%"
+    ]
+  },
+  {
+    "question": "Quel traitement est utilise chez le chat atteint d'osteosarcome ?",
+    "answer": "amputation uniquement",
+    "context": "Traitement par amputation uniquement",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "Radiotherapie",
+      "Traitement multimodal complet",
+      "amputation uniquement",
+      "amputation + chimiotherapie"
+    ]
+  },
+  {
+    "question": "Selectionnez tous les facteurs pronostiques defavorables de l'osteosarcome.",
+    "answer": "Augmentation des phosphatases alcalines seriques",
+    "context": "Facteurs pronostiques defavorables",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Atteinte de l'ulna distal",
+      "Atteinte du radius distal",
+      "Augmentation des phosphatases alcalines seriques",
+      "Metastases pulmonaires au diagnostic"
+    ],
+    "answers": [
+      "Augmentation des phosphatases alcalines seriques",
+      "Metastases pulmonaires au diagnostic"
+    ]
+  },
+  {
+    "question": "Selectionnez tous les facteurs pronostiques favorables de l'osteosarcome.",
+    "answer": "Bonne tolerance a la chimiotherapie",
+    "context": "Facteurs pronostiques favorables",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Bonne tolerance a la chimiotherapie",
+      "Absence de metastases detectables",
+      "Fracture",
+      "Localisation humerale proximale"
+    ],
+    "answers": [
+      "Bonne tolerance a la chimiotherapie",
+      "Absence de metastases detectables"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les complications frequentes du limb-sparing.",
+    "answer": "Defaillance implant",
+    "context": "Complications limb-sparing",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Defaillance implant",
+      "Traitement multimodal complet",
+      "Infection",
+      "Controle local chirurgical"
+    ],
+    "answers": [
+      "Defaillance implant",
+      "Infection"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des boiteries d'origine osteoarticulaire correspond a la rupture du LCCR ?",
+    "answer": "60%",
+    "context": "RLCCr 60% motifs consultation",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "50%",
+      "62%",
+      "90%",
+      "60%"
+    ]
+  },
+  {
+    "question": "De quel ligament s'agit-il dans la rupture du LCCR ?",
+    "answer": "ligament croise cranial",
+    "context": "Rupture du LCCR",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "menisque medial",
+      "Lesions meniscales",
+      "genou",
+      "ligament croise cranial"
+    ]
+  },
+  {
+    "question": "Quel membre est le plus souvent atteint par la rupture du LCCR ?",
+    "answer": "membre pelvien",
+    "context": "Atteinte preferentielle membre pelvien",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "hyperextension",
+      "membre pelvien",
+      "tiroir cranial",
+      "rupture du LCCr"
+    ]
+  },
+  {
+    "question": "Quel signe clinique evoque une rupture du LCCR ?",
+    "answer": "boiterie",
+    "context": "Boiterie d'origine osteoarticulaire",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "Arthrose",
+      "Handicap fonctionnel",
+      "boiterie de soutien",
+      "boiterie"
+    ]
+  },
+  {
+    "question": "Quel test clinique est utilise pour le diagnostic du LCCR ?",
+    "answer": "tiroir cranial",
+    "context": "Test du tiroir cranial",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "tiroir anterieur et rotatoire",
+      "compression du grasset",
+      "tiroir cranial",
+      "test de Tibial thrust"
+    ]
+  },
+  {
+    "question": "Quelle technique chirurgicale de reference est citee pour le LCCR chez le chien de grande race ?",
+    "answer": "TPLO",
+    "context": "TPLO chez grands chiens",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "technique extra-articulaire",
+      "TPLO",
+      "TTA",
+      "chirurgicale"
+    ]
+  },
+  {
+    "question": "Quelle technique alternative au TPLO peut etre utilisee ?",
+    "answer": "TTA",
+    "context": "TTA",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "TTA",
+      "chirurgicale",
+      "technique extra-articulaire",
+      "TPLO"
+    ]
+  },
+  {
+    "question": "Quel examen d'imagerie confirme souvent la rupture du LCCR ?",
+    "answer": "radiographie",
+    "context": "Radiographie",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "radiographie",
+      "scanner",
+      "echographie",
+      "IRM"
+    ]
+  },
+  {
+    "question": "Quelle articulation est atteinte dans la rupture du LCCR ?",
+    "answer": "genou",
+    "context": "Atteinte du genou",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "membre pelvien",
+      "Lesions meniscales",
+      "genou",
+      "ligament croise cranial"
+    ]
+  },
+  {
+    "question": "Quel facteur predispose a la rupture du LCCR ?",
+    "answer": "obesite",
+    "context": "Obesite facteur de risque",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "Hypercorticisme",
+      "Sedentarisme",
+      "Conformation",
+      "obesite"
+    ]
+  },
+  {
+    "question": "Quel traitement specifique de la douleur en urgence fracture ?",
+    "answer": "analgésie (morphiniques), AINS",
+    "context": "Prise en charge douleur urgence",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "bandage de Robert Jones",
+      "Absence de germes",
+      "analgésie (morphiniques), AINS",
+      "amputation"
+    ]
+  },
+  {
+    "question": "Le chat tolere-t-il bien les contentions externes ?",
+    "answer": "non",
+    "context": "Chat tolere mal contentions externes",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "non",
+      "Uniquement pour les fractures ouvertes",
+      "Jamais en pratique courante",
+      "oui"
+    ]
+  },
+  {
+    "question": "Faut-il porter des gants pour la pose de resine ?",
+    "answer": "oui",
+    "context": "Pose resine: porter des gants",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Uniquement pour les fractures ouvertes",
+      "oui",
+      "Jamais en pratique courante",
+      "non"
+    ]
+  },
+  {
+    "question": "Quelle forme de resine est confectionnee chez les carnivores ?",
+    "answer": "bi-valve",
+    "context": "Confectionner une bi-valve",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Confinement en cage",
+      "Velpeau",
+      "bi-valve",
+      "Vetrap"
+    ]
+  },
+  {
+    "question": "Que doit-on laisser apparents chez le chien lors d'une resine ?",
+    "answer": "coussinets des doigts porteurs",
+    "context": "Coussinets doigts porteurs apparents",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "confinement de l'animal",
+      "bandage de Robert Jones",
+      "bandage de Robert Jones modifie",
+      "coussinets des doigts porteurs"
+    ]
+  },
+  {
+    "question": "Quelle est la consequence dramatique du serrage excessif d'une resine ?",
+    "answer": "amputation",
+    "context": "Serrage excessif peut conduire a amputation",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Vetrap",
+      "amputation",
+      "Confinement en cage",
+      "Velpeau"
+    ]
+  },
+  {
+    "question": "Par quoi debute un bandage avec attelle ?",
+    "answer": "bandage de Robert Jones modifie",
+    "context": "Debut par Robert Jones modifie",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "bandage de Robert Jones",
+      "Confinement en cage",
+      "bandage de Robert Jones modifie",
+      "confinement de l'animal"
+    ]
+  },
+  {
+    "question": "Quelle bande cohesive maintient l'attelle en place ?",
+    "answer": "bande cohésive",
+    "context": "Bande cohésive pour maintenir attelle",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Velpeau",
+      "bande cohésive",
+      "Vetrap",
+      "Confinement en cage"
+    ]
+  },
+  {
+    "question": "Quelle recommandation essentielle au proprietaire apres contention externe ?",
+    "answer": "confinement de l'animal",
+    "context": "Confinement de l'animal",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Confinement en cage",
+      "bandage de Robert Jones modifie",
+      "confinement de l'animal",
+      "bandage de Robert Jones"
+    ]
+  },
+  {
+    "question": "Quelle est la cause la plus frequente de complication du Robert Jones modifie ?",
+    "answer": "serrage excessif",
+    "context": "Complication frequente serrage",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Jersey tubulaire",
+      "bandage de Robert Jones",
+      "bandage de Robert Jones modifie",
+      "serrage excessif"
+    ]
+  },
+  {
+    "question": "Quels proeminences osseuses matelasser sur membre anterieur ?",
+    "answer": "os pisiforme et extremite distale de l'ulna",
+    "context": "Matelassage proeminences MA",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "processus styloide du radius et olecrane",
+      "pointe du jarret et malleoles",
+      "os pisiforme et extremite distale de l'ulna",
+      "tuberosite du radius et olecrane"
+    ]
+  },
+  {
+    "question": "Quels reliefs osseux matelasser sur membre pelvien ?",
+    "answer": "pointe du jarret et malleoles",
+    "context": "Matelassage jarret et malleoles",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "os pisiforme et extremite distale de l'ulna",
+      "pointe du jarret et malleoles",
+      "tuberosite du radius et olecrane",
+      "processus styloide du radius et olecrane"
+    ]
+  },
+  {
+    "question": "Combien de bandes de ouate pour le matelassage Robert Jones ?",
+    "answer": "2",
+    "context": "Application de 2 bandes de ouate",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ]
+  },
+  {
+    "question": "Quand faut-il mettre une collerette avec un bandage ?",
+    "answer": "en presence d'une plaie",
+    "context": "Collerette si plaie",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "non",
+      "Reserve aux chats uniquement",
+      "en presence d'une plaie",
+      "oui"
+    ]
+  },
+  {
+    "question": "Quel contact minimum entre surfaces fracturées pour traitement conservateur ?",
+    "answer": "> 50%",
+    "context": "Contact > 50%",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "deplacement des abouts fracturaires",
+      "amputation",
+      "> 50%",
+      "Fractures fermees"
+    ]
+  },
+  {
+    "question": "Quel contact maximum entre surfaces fracturées pour indication chirurgicale ?",
+    "answer": "< 50%",
+    "context": "Contact < 50%",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "Contact entre surfaces fracturees < 50%",
+      "> 50%",
+      "Contact entre surfaces fracturees > 50%",
+      "< 50%"
+    ]
+  },
+  {
+    "question": "Les contentions externes doivent-elles inclure l'articulation proximale a la fracture ?",
+    "answer": "oui",
+    "context": "Doit inclure articulation proximale",
+    "source": "fractures",
+    "type": "curated",
+    "choices": [
+      "non",
+      "oui",
+      "Uniquement pour les fractures ouvertes",
+      "Seulement au contact direct de la peau"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les complications possibles d'une contention externe.",
+    "answer": "Macération cutanée",
+    "context": "Complications contention externe",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Compression",
+      "Macération cutanée",
+      "Traction",
+      "Non consolidation"
+    ],
+    "answers": [
+      "Macération cutanée",
+      "Non consolidation"
+    ]
+  },
+  {
+    "question": "Selectionnez tous les criteres influencant la strategie therapeutique d'une fracture.",
+    "answer": "Age de l'animal",
+    "context": "Critères strategie therapeutique",
+    "source": "fractures",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Contraintes financieres",
+      "Articulaires",
+      "Desaxation articulaire",
+      "Age de l'animal"
+    ],
+    "answers": [
+      "Age de l'animal",
+      "Contraintes financieres"
+    ]
+  },
+  {
+    "question": "Quelle est la frequence approximative d'un resultat fonctionnel satisfaisant apres amputation ?",
+    "answer": "75-90%",
+    "context": "Resultat fonctionnel satisfaisant ~75-90%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "10-14 mois",
+      "75-90%",
+      "1-3 mois",
+      "4-6 mois"
+    ]
+  },
+  {
+    "question": "Quelle frequence de recidive locale apres limb-sparing ?",
+    "answer": "10-25%",
+    "context": "Recidive locale ~10-25%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "10-25%",
+      "10-14 mois",
+      "1-3 mois",
+      "4-6 mois"
+    ]
+  },
+  {
+    "question": "Quelle frequence d'infection apres limb-sparing ?",
+    "answer": "20-60%",
+    "context": "Infection ~20-60%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "20-60%",
+      "10-14 mois",
+      "1-3 mois",
+      "4-6 mois"
+    ]
+  },
+  {
+    "question": "Quelle frequence de conversion en amputation apres limb-sparing ?",
+    "answer": "15-35%",
+    "context": "Conversion amputation ~15-35%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "10-14 mois",
+      "1-3 mois",
+      "4-6 mois",
+      "15-35%"
+    ]
+  },
+  {
+    "question": "Quelle frequence d'amelioration antalgique avec radiotherapie palliative ?",
+    "answer": "70-90%",
+    "context": "Amelioration antalgique ~70-90%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "4-6 mois",
+      "1-3 mois",
+      "10-14 mois",
+      "70-90%"
+    ]
+  },
+  {
+    "question": "Quelle frequence de fracture pathologique malgre radiotherapie ?",
+    "answer": "15-35%",
+    "context": "Fracture pathologique ~15-35%",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "1-3 mois",
+      "15-35%",
+      "4-6 mois",
+      "10-14 mois"
+    ]
+  },
+  {
+    "question": "Quelle proportion de survies longues a 2 ans ?",
+    "answer": "15-20%",
+    "context": "Survies longues ~15-20% a 2 ans",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "20-60%",
+      "10-25%",
+      "75-90%",
+      "15-20%"
+    ]
+  },
+  {
+    "question": "Quelle proportion de survie a 2 ans avec chimio adjuvante ?",
+    "answer": "< 25%",
+    "context": "Moins de 25% a 2 ans",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "< 25%",
+      "5-10%",
+      "3-8%",
+      "> 80%"
+    ]
+  },
+  {
+    "question": "Quelle localisation osseuse preferentielle de la tumeur ?",
+    "answer": "zones de croissance (metaphyses)",
+    "context": "Localisation metaphysaire",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "zones de croissance (metaphyses)",
+      "Traitement multimodal complet",
+      "boiterie douloureuse persistante",
+      "loin du coude, pres du grasset"
+    ]
+  },
+  {
+    "question": "Quelle dissémination metastatique est la plus frequente ?",
+    "answer": "pulmonaire",
+    "context": "Dissémination principalement pulmonaire",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "pulmonaire",
+      "Infection",
+      "Levrier Ecossais",
+      "AINS"
+    ]
+  },
+  {
+    "question": "Quel signe clinique majeur evoque un osteosarcome ?",
+    "answer": "boiterie douloureuse persistante",
+    "context": "Boiterie douloureuse persistante",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "> 80%",
+      "loin du coude, pres du grasset",
+      "boiterie douloureuse persistante",
+      "phosphatases alcalines seriques elevees"
+    ]
+  },
+  {
+    "question": "Quelle alteration biologique est un mauvais pronostic independant ?",
+    "answer": "phosphatases alcalines seriques elevees",
+    "context": "Phosphatases alcalines elevees",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "choices": [
+      "boiterie douloureuse persistante",
+      "phosphatases alcalines seriques elevees",
+      "Metastases pulmonaires au diagnostic",
+      "zones de croissance (metaphyses)"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les races predisposees a l'osteosarcome.",
+    "answer": "Leonberg",
+    "context": "Predisposition raciale",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Dogue Allemand",
+      "Localisation humerale proximale",
+      "Index mitotique eleve",
+      "Leonberg"
+    ],
+    "answers": [
+      "Leonberg",
+      "Dogue Allemand"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les options de prise en charge de la douleur osseuse.",
+    "answer": "Radiotherapie",
+    "context": "Prise en charge de la douleur",
+    "source": "tumeurs_osseuses",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Morphiniques",
+      "Metastases pulmonaires au diagnostic",
+      "Radiotherapie",
+      "Index mitotique eleve"
+    ],
+    "answers": [
+      "Radiotherapie",
+      "Morphiniques"
+    ]
+  },
+  {
+    "question": "Quel pourcentage des boiteries OA du membre pelvien correspond a la RLCCr au ChuvA-ENVA ?",
+    "answer": "62%",
+    "context": "62% boiteries membre pelvien ChuvA-ENVA",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "62%",
+      "90%",
+      "50%",
+      "60%"
+    ]
+  },
+  {
+    "question": "Quelle est la principale cause de boiterie du membre pelvien d'origine OA chez le chien ?",
+    "answer": "rupture du LCCr",
+    "context": "Principale cause RLCCr",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "rupture du LCCr",
+      "boiterie de soutien",
+      "Handicap fonctionnel",
+      "boiterie"
+    ]
+  },
+  {
+    "question": "Quel mouvement le LCCr limite-t-il principalement ?",
+    "answer": "glissement cranial du tibia",
+    "context": "Limite glissement cranial du tibia",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "hyperextension",
+      "rotation interne du tibia",
+      "glissement cranial du tibia",
+      "tiroir anterieur et rotatoire"
+    ]
+  },
+  {
+    "question": "Quel autre mouvement le LCCr limite-t-il ?",
+    "answer": "rotation interne du tibia",
+    "context": "Controle rotation interne du tibia",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "hyperextension",
+      "glissement cranial du tibia",
+      "rotation interne du tibia",
+      "tiroir anterieur et rotatoire"
+    ]
+  },
+  {
+    "question": "Quel mouvement articulaire le LCCr limite-t-il ?",
+    "answer": "hyperextension",
+    "context": "Limite hyperextension",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "tiroir anterieur et rotatoire",
+      "glissement cranial du tibia",
+      "hyperextension",
+      "rotation interne du tibia"
+    ]
+  },
+  {
+    "question": "Quel pourcentage de lésions méniscales accompagne une rupture du LCCr ?",
+    "answer": "50%",
+    "context": "Lésions méniscales dans 50% des cas",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "50%",
+      "60%",
+      "62%",
+      "90%"
+    ]
+  },
+  {
+    "question": "Quel ménisque est particulierement atteint ?",
+    "answer": "ménisque médial",
+    "context": "Ménisque médial en particulier",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "membre pelvien",
+      "tiroir cranial",
+      "rupture du LCCr",
+      "ménisque médial"
+    ]
+  },
+  {
+    "question": "Quel pourcentage de rupture controlaterale décalée dans le temps ?",
+    "answer": "50%",
+    "context": "Rupture controlaterale 50% des cas",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "50%",
+      "90%",
+      "60%",
+      "62%"
+    ]
+  },
+  {
+    "question": "Quelle pente tibiale est un facteur de risque ?",
+    "answer": "> 30°",
+    "context": "Pente tibiale > 30°",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "< 15°",
+      "> 30°",
+      "20-25°",
+      "35-40°"
+    ]
+  },
+  {
+    "question": "Quelle est l'etiologie dominante de la rupture du LCCr ?",
+    "answer": "degenerescence ligamentaire",
+    "context": "Degenerescence ligamentaire",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "Hypercorticisme",
+      "Predisposition raciale",
+      "Conformation",
+      "degenerescence ligamentaire"
+    ]
+  },
+  {
+    "question": "La rupture traumatique isolée est-elle frequente ?",
+    "answer": "non",
+    "context": "Traumatique rarement cause isolee",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "oui",
+      "Observee dans plus de 50% des traumatismes",
+      "non",
+      "Dans la majorite des cas isoles"
+    ]
+  },
+  {
+    "question": "Existe-t-il une cicatrisation spontanée du LCCr ?",
+    "answer": "non",
+    "context": "Absence de cicatrisation spontanée",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "non",
+      "oui",
+      "Tres rare, quasi exceptionnelle",
+      "Dans la majorite des cas isoles"
+    ]
+  },
+  {
+    "question": "Quel pourcentage de ruptures apres reparation par suture isolee ?",
+    "answer": "90%",
+    "context": "Reparation suture isolee -> 90% ruptures",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "62%",
+      "90%",
+      "90% de ruptures",
+      "60%"
+    ]
+  },
+  {
+    "question": "Quelles instabilités suivent la rupture du LCCr ?",
+    "answer": "tiroir anterieur et rotatoire",
+    "context": "Instabilites tiroir anterieur et rotatoire",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "tiroir anterieur et rotatoire",
+      "hyperextension",
+      "glissement cranial du tibia",
+      "rotation interne du tibia"
+    ]
+  },
+  {
+    "question": "Quels sont les deux enjeux majeurs du traitement du LCCr ?",
+    "answer": "stabilité articulaire et limiter l'arthrose",
+    "context": "Stabilite + limiter arthrose",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "immobilisation platre prolongee",
+      "eviter toute chirurgie invasive",
+      "restaurer la fonction meniscale",
+      "stabilite articulaire et limiter l'arthrose"
+    ]
+  },
+  {
+    "question": "Quel type de boiterie est prototypique d'une rupture complete du LCCr ?",
+    "answer": "boiterie de soutien",
+    "context": "Boiterie de soutien",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "Instabilite articulaire",
+      "boiterie",
+      "boiterie de soutien",
+      "Handicap fonctionnel"
+    ]
+  },
+  {
+    "question": "Quelle prise en charge est systematique pour la RLCCr chez le chien ?",
+    "answer": "chirurgicale",
+    "context": "Prise en charge chirurgicale systematique",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "chirurgicale",
+      "TPLO",
+      "TTA",
+      "technique extra-articulaire"
+    ]
+  },
+  {
+    "question": "La RLCCr est-elle un modele de pathologie spontanee chez l'homme ?",
+    "answer": "oui",
+    "context": "Modele pathologie spontanee homme",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "non",
+      "Observee dans plus de 50% des traumatismes",
+      "oui",
+      "Systematique apres entorse benigne"
+    ]
+  },
+  {
+    "question": "Quel coût annuel USA est cite pour la prise en charge RLCCr (2003) ?",
+    "answer": "1 milliard $",
+    "context": "Cout 1 milliard $ USA 2003",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "choices": [
+      "500 millions $",
+      "1 milliard $",
+      "2 milliards $",
+      "6 milliards $"
+    ]
+  },
+  {
+    "question": "Selectionnez tous les facteurs etiologiques de la rupture du LCCr.",
+    "answer": "Synovite",
+    "context": "Etiologie multifactorielle LCCr",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Hypothyroïdie",
+      "Lésions méniscales",
+      "Synovite",
+      "Instabilite articulaire"
+    ],
+    "answers": [
+      "Synovite",
+      "Hypothyroïdie"
+    ]
+  },
+  {
+    "question": "Selectionnez toutes les consequences physiopathologiques de la rupture du LCCr.",
+    "answer": "Synovite",
+    "context": "Consequences RLCCr",
+    "source": "rupture_lccr",
+    "type": "curated",
+    "multiSelect": true,
+    "choices": [
+      "Obesite",
+      "Lésions méniscales",
+      "Synovite",
+      "Predisposition raciale"
+    ],
+    "answers": [
+      "Synovite",
+      "Lésions méniscales"
+    ]
+  }
+]

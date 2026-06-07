@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.env.*
+*.local
+.DS_Store
+tsconfig.tsbuildinfo
+.vercel
+__pycache__
+scripts/__pycache__
+scripts/lccr_lines.txt
+scripts/write_extractor.py
+scripts/build_hand_checked.py
